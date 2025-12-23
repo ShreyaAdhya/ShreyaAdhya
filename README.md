@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Shreya Adhya 👋
 
-<!--
-**ShreyaAdhya/ShreyaAdhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 **Bioinformatics Engineer | Research Associate @ Syngene**  
+📍 Bangalore, India  
 
-Here are some ideas to get you started:
+I’m a bioinformatics engineer with **3+ years of experience** working on **genomics, transcriptomics (bulk & single-cell), and metagenomics** in a pharma R&D setting. I focus on building **scalable NGS pipelines**, **data integration tools**, and **automated workflows** for drug discovery and target assessment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+- **Programming:** Python, SQL, Bash  
+- **Databases:** MongoDB, Neo4j  
+- **Bioinformatics:** STAR, BowTie, DESeq2, GATK, VEP, Scanpy, Kraken2, QIIME2  
+- **NGS:** Genomics, Transcriptomics, Metagenomics  
+- **Workflows:** Nextflow, Docker, HPC, Git  
+- **Data & Viz:** ETL, statistics, basic ML, Matplotlib, Seaborn
+
+---
+
+## 💼 Experience
+
+- **Research Associate – Syngene**  
+  Building optimized **NGS pipelines**, **target safety assessment tools**, **knowledge graph**, and **literature text-mining pipelines**.
+
+- **Project Associate – CBR-IISc**  
+  Automated admixture-analysis, QC and variant analysis pipelines for large-scale population genomics for **Genome India Project.**
+
+---
+
+## 📫 Let's connect
+
+- 📧 **adhyatiti@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/shreya-adhya)
