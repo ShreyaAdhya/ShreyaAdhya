@@ -1,4 +1,4 @@
-# Hi, I’m Shreya Adhya 👋
+# Hi, I’m Shreya Adhya 👋👩‍🎓
 
 🧬 **Bioinformatics Engineer | Research Associate @ Syngene**  
 📍 Bangalore, India  
