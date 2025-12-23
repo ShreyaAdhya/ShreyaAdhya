@@ -10,11 +10,12 @@ I’m a bioinformatics engineer with **3+ years of experience** working on **gen
 ## 🔧 Skills
 
 - **Programming:** Python, SQL, Bash  
-- **Databases:** MongoDB, Neo4j  
+- **Databases:** SQL, MongoDB, Neo4j  
 - **Bioinformatics:** STAR, BowTie, DESeq2, GATK, VEP, Scanpy, Kraken2, QIIME2  
 - **NGS:** Genomics, Transcriptomics, Metagenomics  
-- **Workflows:** Nextflow, Docker, HPC, Git  
-- **Data & Viz:** ETL, statistics, basic ML, Matplotlib, Seaborn
+- **Workflows:** CI/CD, Nextflow, Docker, HPC, Git  
+- **Data:** ETL & data wrangling, optimization in data architecture, statistical analysis, EDA, basic ML, data processing on HPC/cloud environments 
+- **Vizualisation:** Shiny, Streamlit, Matplotlib, Seaborn
 
 ---
 
