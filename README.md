@@ -1,6 +1,6 @@
 # Hi, I’m Shreya Adhya 👋👩‍🎓
 
-🧬 **Bioinformatics Engineer | Research Associate @ Syngene**  
+🧬 **Bioinformatics Engineer | Senior Associate @ Syngene**  
 📍 Bangalore, India  
 
 I’m a bioinformatics engineer with **3+ years of experience** working on **genomics, transcriptomics (bulk & single-cell), and metagenomics** in a pharma R&D setting. I focus on building **scalable NGS pipelines**, **data integration tools**, and **automated workflows** for drug discovery and target assessment.
