@@ -21,7 +21,7 @@ I’m a bioinformatics engineer with **3+ years of experience** working on **gen
 
 ## 💼 Experience
 
-- **Research Associate – Syngene**  
+- **Senior Associate – Syngene**  
   Building optimized **NGS pipelines**, **target safety assessment tools**, **knowledge graph**, and **literature text-mining pipelines**.
 
 - **Project Associate – CBR-IISc**  
